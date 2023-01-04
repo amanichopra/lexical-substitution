@@ -1,3 +1,7 @@
 *.predict
 *.xml
 *.gz
+*.trial
+.idea/
+.DS_Store
+__pycache__/
